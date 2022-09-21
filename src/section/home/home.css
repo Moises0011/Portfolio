@@ -1,0 +1,63 @@
+#home {
+    width: 100vw;
+    height: 100vh;
+}
+
+.imgHome {
+    position: absolute;
+}
+
+.title {
+    /* text-align: center;*/
+    color: lime;
+    font-family:DejaVu Sans Mono, monospace;
+    font-style: italic;
+    font-size: 20px;
+    z-index: 2;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+}
+
+.sobre{
+    font-style: italic;
+    font-family:DejaVu Sans Mono, monospace	;
+    color: lime;
+
+}
+
+.projetos{
+    font-style: italic;
+    font-family:DejaVu Sans Mono, monospace	;
+    color: lime;
+
+}
+
+.habilidades{
+    font-style: italic;
+    font-family:DejaVu Sans Mono, monospace	;
+    color: lime;
+}
+
+.box{
+    
+    background-color: lime;
+    padding: 4rem;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+
+
+    background: rgba(225, 225, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: (10px);
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    margin-right: 1rem;
+    color: lime;
+}
