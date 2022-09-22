@@ -2,7 +2,7 @@ import fundo from '../home/image/Matrix.png'
 
 import './home.css'
 
-import { FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa"
+import { FaLinkedin, FaFacebook, FaInstagram, FaGithub, FaJava } from "react-icons/fa"
 
 import foto from '../home/image/foto.jpeg'
 
@@ -40,7 +40,12 @@ export default function Home(){
         <li>
           <a href="https://www.linkedin.com/in/mois%C3%A9s-fernandes-110a46208/"
             ><FaLinkedin size={24}/>
-            </a>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/Moises0011"
+            ><FaGithub size={24}/>
+          </a>
         </li>
       </ul>
     </div>

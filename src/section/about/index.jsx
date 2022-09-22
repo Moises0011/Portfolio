@@ -3,7 +3,8 @@
 export default function Sobre(){
 
     return(
-      <div className='Sobre'>
+
+      <div class='box'>
         
         <div className='sobre'>
             <h1>Sobre mim</h1>
@@ -12,8 +13,8 @@ export default function Sobre(){
 
         <div className='projetos'>
             <h1>Projetos</h1>
-            <h2>Tambem tenho alguns projetos que fiz ao longo da minha vida estudando sobre tecnologia</h2>
-            <a href="">Projeto 1</a> <a href="">Projeto 2</a> <a href="">Projeto 3</a>
+            <h2>Tambem tenho alguns projetos que fiz ao longo da minha vida estudando sobre tecnologia, esses projetos estão armazenados na minha conta do GitHub.</h2>
+            <a href="https://github.com/Moises0011/Ex2">Projeto de Java</a> <a href="https://github.com/Moises0011/curso-react">Projeto de React</a> <a href="https://github.com/Moises0011/CalculoImc">Projeto de Python</a>
         </div>
 
         <div className='habilidades'>

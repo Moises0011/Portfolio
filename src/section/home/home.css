@@ -24,29 +24,28 @@
     font-style: italic;
     font-family:DejaVu Sans Mono, monospace	;
     color: lime;
-
+    text-align: center;
 }
 
 .projetos{
     font-style: italic;
     font-family:DejaVu Sans Mono, monospace	;
     color: lime;
-
+    text-align: center;
 }
 
 .habilidades{
     font-style: italic;
     font-family:DejaVu Sans Mono, monospace	;
     color: lime;
+    text-align: center;
 }
 
 .box{
-    
     background-color: lime;
     padding: 4rem;
     box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
     border-radius: 50px;
-
 
     background: rgba(225, 225, 255, 0.1);
     backdrop-filter: blur(10px);
