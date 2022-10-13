@@ -2,7 +2,7 @@ import fundo from '../home/image/Matrix.png'
 
 import './home.css'
 
-import { FaLinkedin, FaFacebook, FaInstagram, FaGithub, FaJava } from "react-icons/fa"
+import { FaLinkedin, FaFacebook, FaInstagram, FaGithub} from "react-icons/fa"
 
 import foto from '../home/image/foto.jpeg'
 
