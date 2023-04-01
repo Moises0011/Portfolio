@@ -28,22 +28,22 @@ export default function Home(){
       <ul class="redes-sociais"></ul>
       <ul>
         <li>
-          <a href="https://www.facebook.com/profile.php?id=100043871915015"
+          <a href="https://www.facebook.com/profile.php?id=100043871915015" target="_blank"
             ><FaFacebook size={24}/>
             </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/moises.fernandes03/?fbclid=IwAR2Pd9tpn2mTo27QW3Mti7_mhxFr7VUkrldeTZ8EUMHcJqGaEY48YKiwhrQ"
+          <a href="https://www.instagram.com/moises.fernandes03/?fbclid=IwAR2Pd9tpn2mTo27QW3Mti7_mhxFr7VUkrldeTZ8EUMHcJqGaEY48YKiwhrQ" target="_blank"
             ><FaInstagram size={24}/>
             </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/mois%C3%A9s-fernandes-110a46208/"
+          <a href="https://www.linkedin.com/in/mois%C3%A9s-fernandes-110a46208/" target="_blank"
             ><FaLinkedin size={24}/>
           </a>
         </li>
         <li>
-          <a href="https://github.com/Moises0011"
+          <a href="https://github.com/Moises0011" target="_blank"
             ><FaGithub size={24}/>
           </a>
         </li>
